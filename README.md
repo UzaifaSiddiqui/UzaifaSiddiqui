@@ -26,14 +26,14 @@ Fields-Of-Interests:
   
 Technical-Background:
   
-    "JavaScript Developer"
+    "JavaScript Developer",
     "Python Developer",
     "Intern - Data Science & Machine Learning in Python"
   
   
 Currently-Learning: 
 
-     "React","Node.js","Express.js","Mongodb","Sql"
+     ["React","Node.js","Express.js","Mongodb","Sql"]
 
 2024 Goals: 
 
