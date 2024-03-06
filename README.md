@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**UzaifaSiddiqui/UzaifaSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ```yaml
 name: Muhammad Uzaifa Siddiqui
 located_in: Karachi , Pakistan
