@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-Name: Muhammad Uzaifa Siddiqui
+Name: 
+    "Muhammad Uzaifa Siddiqui"
 
-Located - in: Karachi , Pakistan
+Located - in: 
+    "Karachi , Pakistan"
 
 Education:
 
