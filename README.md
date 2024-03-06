@@ -2,15 +2,30 @@
 
 <!--
 **UzaifaSiddiqui/UzaifaSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Muhammad Uzaifa Siddiqui
+located_in: Karachi , Pakistan
+education:
+  [
+    "Self-Taught Developer",
+    "Bachelor in Computer Science 2020-24(Ubit -> University of Karachi)",
+  ]
+company: Intern at Data World
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+  ]
+technical_background:
+  [
+    "JavaScript Developer"
+    "Python Developer",
+    "Intern - Data Science & Machine Learning in Python"
+  ]
+  
+currently_learning: ["React","Node.js","Express.js","Mongodb","Sql"]
+2024 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
+```
 -->
