@@ -14,7 +14,9 @@ Education:
     
     "Bachelor in Computer Science 2020-24(Ubit -> University of Karachi)",
 
-Company: Intern at Data World
+Company: 
+
+    "Intern at Data World"
 
 Fields-Of-Interests:
   
@@ -29,7 +31,11 @@ Technical-Background:
     "Intern - Data Science & Machine Learning in Python"
   
   
-Currently-Learning: "React","Node.js","Express.js","Mongodb","Sql"
+Currently-Learning: 
 
-2024 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
+     "React","Node.js","Express.js","Mongodb","Sql"
+
+2024 Goals: 
+
+     ["Create 25+ Projects and learn at least 5 new Technologies."]
 -->
